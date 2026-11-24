@@ -1,4 +1,4 @@
-# Deepak Prasanna Narthana Rengan
+# Deepak Prasanna N
 
 ![Building AI for engineering and business](banner.svg)
 
